@@ -1,8 +1,8 @@
 # Sistema de cadastro de consultas de um hospital
-Uma aplicação JAVA WEB usando SERVLET, JSP e JDBC, com gerenciamento de projetos MAVEN e arquitetura MVC e DAO.
+Uma aplicação JAVA WEB usando SERVLET, JSP e JDBC, com gerenciamento de projetos MAVEN, arquitetura MVC e DAO.
 
 # System of records of consultations of a hospital
-A JAVA WEB application using SERVLET, JSP and JDBC, with MAVEN project management and MVC and DAO architecture.
+A JAVA WEB application using SERVLET, JSP and JDBC, with MAVEN project management, MVC and DAO architecture.
 
 ## Sobre o projeto
 
@@ -10,7 +10,7 @@ Esta é uma aplicação Java Web desenvolvida na arquitetura MVC e é composta d
 
 ## About the project
 
-This is a Java Web application developed in the MVC architecture and is composed of the functions Logar, Store user information in cookies, List Marked Queries, Create Queries, Edit Queries, Delete Queries. The project aims to demonstrate skills in the technologies, mentioned below, with a beginner system in java for web development.
+This is a Java Web application developed in the MVC architecture and is composed of the functions Logar, Store user information in cookies, List Marked hospital consultation, Create hospital consultation, Edit hospital consultation, Delete hospital consultation. The project aims to demonstrate skills in the technologies, mentioned below, with a beginner system in java for web development.
 
 ### Author - Autor
 
@@ -47,4 +47,4 @@ Os padrões de projeto utilizados na aplicação são: MVC, Maven e DAO;
 
 ***
 
-![Prototipo](https://#)
+![wireframe](https://user-images.githubusercontent.com/29678099/52979388-fe4afa80-33b3-11e9-9603-f8d43b8eac46.png)
