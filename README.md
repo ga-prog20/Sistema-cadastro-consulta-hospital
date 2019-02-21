@@ -50,3 +50,7 @@ Os padrões de projeto utilizados na aplicação são: MVC, Maven e DAO;
 ***
 
 ![wireframe](https://user-images.githubusercontent.com/29678099/52979388-fe4afa80-33b3-11e9-9603-f8d43b8eac46.png)
+---
+![wireframehospital-pagina nova consulta](https://user-images.githubusercontent.com/29678099/53167563-045cf900-35b7-11e9-8d5b-29b187b32d83.png)
+---
+![wireframehospital-pagina login](https://user-images.githubusercontent.com/29678099/53167600-2191c780-35b7-11e9-9867-ae7c876cf9c2.png)
