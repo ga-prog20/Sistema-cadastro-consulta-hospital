@@ -43,6 +43,12 @@ Os padrões de projeto utilizados na aplicação são: MVC, Maven e DAO;
 
 ---
 
+### UML
+
+![uml-hospital_caso-de-uso](https://user-images.githubusercontent.com/29678099/53255673-d950d300-36a4-11e9-8cfd-abb529fe5212.png)
+
+***
+
 ### Prototyping - Prototipagem:
 
 * [Click here to open in new tab  - Clique aqui para abrir em outra aba:](https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1#G1d3B2fIDUucT0W7YoqQ-pSgjBWy7xWTCU)
