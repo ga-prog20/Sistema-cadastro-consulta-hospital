@@ -43,6 +43,12 @@ Os padrões de projeto utilizados na aplicação são: MVC, Maven e DAO;
 
 ---
 
+### MODELO FISICO
+
+[Modelo Entidade Relacionamento](http://www.jeferson.ml/introducaoProgramacaoBD/)
+
+---
+
 ### UML
 
 ![uml-hospital_caso-de-uso](https://user-images.githubusercontent.com/29678099/53255673-d950d300-36a4-11e9-8cfd-abb529fe5212.png)
