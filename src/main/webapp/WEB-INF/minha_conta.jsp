@@ -1,13 +1,16 @@
-<!--
-    Documento : login.html    
+<%-- 
+    Documento   : minha_conta
+    Created on : Mar 15, 2019, 11:24:03 PM
     Autor     : jeferson
--->
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
     <head>
-        <title>login</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <link rel="stylesheet" href="css/main.css">
+        <title>Minha conta</title>
     </head>
     <body>
         <header>
@@ -15,18 +18,18 @@
                 <h1>Area de login</h1>
                 <ul>
                     <li>
-                        <a href="index.html">Inicio</a>
+                        <a href="index.html"> Inicio </a>                        
                     </li>                    
+                    <li>
+                        <a href='login.html'> Deslogar </a>
+                    </li>
                 </ul>
             </nav>
         </header>
         <main>
             <section>
-                <form action="LoginServlet" method="post">
-                    <input type="text" name="nome" placeholder="Nome"/>
-                    <input type="password" name="senha" placeholder="***"/>
-                    <input type="submit" value="logar"/>
-                </form>
+                <h2>nome: ${param.nome}</h2>
+                <h2>senha: ${param.senha}</h2>
             </section>
         </main>
         <footer>
